@@ -1,4 +1,33 @@
-📍RJ
+📍São Paulo - SP
+
+**FIAP + Alura | Semana Carreira Tech | Universo Inteligência Artificial**
+
+Explore o impacto da inteligência artificial e da ciência de dados em diversas áreas, como agricultura inteligente, justiça, diagnósticos médicos e sustentabilidade.  
+Descubra como a IA está transformando o mundo e como você pode fazer parte dessa revolução tecnológica.
+
+📅 **Data:** 09 a 13/06 (segunda a sexta)  
+🕙 **Horário:** 19h  
+📍 **Local:** Evento online  
+💰 **Entrada:** Gratuita  
+🔗 **Inscreva-se e saiba mais:** https://carreiratech.fiap.com.br/?utm_source=meetup&utm_medium=ativacao_meetup&utm_campaign=semana_carreira_tech_2025
+
+---
+
+📍Brasília - DF
+
+**III Encontro Nacional de Inovação e Empreendedorismo na Educação Profissional e Tecnológica (InovEPT)**
+
+O InovEPT é um evento promovido pela Secretaria de Educação Profissional e Tecnológica (Setec) do Ministério da Educação (MEC), com o objetivo de fomentar o diálogo entre gestores, lideranças e pesquisadores sobre os principais direcionadores para o fortalecimento de um ecossistema de inovação na Educação Profissional e Tecnológica (EPT). A programação inclui debates, oficinas e apresentações que destacam práticas inovadoras, iniciativas sustentáveis e educação empreendedora, promovendo a integração entre educação, tecnologia e desenvolvimento social.
+
+📅 **Data:** 10 a 12/06/2025 (terça a quinta-feira)  
+🕙 **Horário:** 08h às 18h  
+📍 **Local:** Instituto Federal de Brasília (IFB) – SGAN 610, Módulos D, E, F e G – Asa Norte, Brasília – DF  
+💰 **Entrada:** Gratuita  
+🔗 **Inscreva-se e saiba mais:** [even3.com.br/iii-inovept](https://www.even3.com.br/iii-inovept/)
+
+---
+
+📍Rio de Janeiro - RJ
 
 **Tech Nights Rio – Granite + vLLM Inference**
 
@@ -44,5 +73,3 @@ Descubra como unificar, treinar e operacionalizar modelos de IA e ML diretamente
 🌐 **Local:** Evento online  
 💰 **Entrada:** Gratuita (com inscrição)  
 🔗 **Inscreva-se e saiba mais:** https://www.snowflake.com/webinars/ai-ml-webinar-brazil-2025-06-11/
-
----
